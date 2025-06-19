@@ -115,7 +115,7 @@ src/main/
 
 1. **프로젝트 클론**
 ```bash
-git clone https://github.com/ParkChangHyun7/seoul-its-info.git
+git clone https://github.com/your-username/seoul-its-info.git
 cd seoul-its-info
 ```
 
@@ -142,7 +142,7 @@ mvn spring-boot:run
 
 5. **브라우저에서 접속**
 ```
-http://localhost:9998
+http://localhost:8080
 ```
 
 ## 📊 주요 성과 및 학습 포인트
@@ -176,8 +176,8 @@ http://localhost:9998
 
 프로젝트에 대한 문의사항이 있으시면 아래 연락처로 연락해 주세요.
 
-- **Email**: [chang6100@naver.com]
-- **GitHub**: [https://github.com/ParkChangHyun7]
+- **Email**: [your-email@example.com]
+- **GitHub**: [https://github.com/your-username]
 - **Portfolio**: [https://your-portfolio.com]
 
 ---
